@@ -1,0 +1,1 @@
+SELECT * FROM proyectos_escolares.tareas;
